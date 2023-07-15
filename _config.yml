@@ -244,6 +244,26 @@ defaults:
       author_profile: true
       share: true
 
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+  # _join us
+  - scope:
+      path: ""
+      type: join us
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
