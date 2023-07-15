@@ -10,11 +10,11 @@ Causal Framework for Improving Nutritional Research
 Every day, we make decisions on choosing what to eat. Choosing wisely among different possible dietary choices requires knowledge about how these diets affect our health outcomes. Sound causal inference can be made based on well-conducted dietary randomized controlled trials. However, due to prohibiting costs and formidable challenges to maintain sustained dietary changes, long-term well-conducted dietary trials are rare. As a result, estimating the long-term effects of dietary intervention often relies on observational studies. 
 
 Our research in this area aims to improve study design using the target trial framework and address the unique challenges of emulating dietary interventions with observational data. These include:
-•	Food-based dietary interventions: We propose a tailored target trial approach to study health effect of join interventions on multiple dietary components.
-•	Assessing sensitive windows of interventions: We demonstrate how to use marginal structural models to evaluate sensitive windows of dietary interventions.
-•	Estimating the effects of dietary substitution: We are proposing a formal causal framework for estimating the effect of food substitution (e.g., replacing processed meat with chicken).
-•	Nutrition modeling: We describe the connection between the g-formula and standard nutrition models.
-•	Model specification of the parametric g-formula: We propose and evaluate two methods for evaluating model specification when implementing the parametric g-formula for a threshold intervention like diet.
+*	Food-based dietary interventions: We propose a tailored target trial approach to study health effect of join interventions on multiple dietary components.
+* Assessing sensitive windows of interventions: We demonstrate how to use marginal structural models to evaluate sensitive windows of dietary interventions.
+* Estimating the effects of dietary substitution: We are proposing a formal causal framework for estimating the effect of food substitution (e.g., replacing processed meat with chicken).
+*	Nutrition modeling: We describe the connection between the g-formula and standard nutrition models.
+*	Model specification of the parametric g-formula: We propose and evaluate two methods for evaluating model specification when implementing the parametric g-formula for a threshold intervention like diet.
 
 
 Studying treatment effectiveness and safety in pregnancy using real-world data
