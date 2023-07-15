@@ -2,7 +2,7 @@
 title: "Generalizability and transportability for survival outcomes"
 collection: teaching
 type: "CAUSALab Summer Course"
-permalink: /teaching/2023-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: 
 date: "June, 2023"
 location: #"City, Country"
