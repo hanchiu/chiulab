@@ -5,7 +5,7 @@ type: "CAUSALab Summer Course"
 permalink: /teaching/2015-spring-teaching-2
 venue: 
 date: June, 2023
-location: #"City, Country"
+location: "City, Country"
 ---
 
 
