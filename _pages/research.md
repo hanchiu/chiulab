@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-
 Causal Framework for Improving Nutritional Research 
+======
 Every day, we make decisions on choosing what to eat. Choosing wisely among different possible dietary choices requires knowledge about how these diets affect our health outcomes. Sound causal inference can be made based on well-conducted dietary randomized controlled trials. However, due to prohibiting costs and formidable challenges to maintain sustained dietary changes, long-term well-conducted dietary trials are rare. As a result, estimating the long-term effects of dietary intervention often relies on observational studies. 
 
 Our research in this area aims to improve study design using the target trial framework and address the unique challenges of emulating dietary interventions with observational data. These include:
@@ -17,8 +17,8 @@ Our research in this area aims to improve study design using the target trial fr
 •	Model specification of the parametric g-formula: We propose and evaluate two methods for evaluating model specification when implementing the parametric g-formula for a threshold intervention like diet.
 
 
-
 Studying treatment effectiveness and safety in pregnancy using real-world data
+======
 Since pregnant women are typically excluded from pre-marketing clinical trials, we often learn about the effectiveness and safety of drugs in this population using real-world data. However, the use of non-experimental data collected for non-research purposes presents challenges that require advanced methods and careful interpretation. Moreover, the design and analysis of studies in pregnancy require adapting methods to account for considerations about gestational age and competing events due to pregnancy losses. 
 
 We tackle key challenges that arise in the design and analysis of healthcare data for pregnancy research. Our focus includes: 
@@ -26,8 +26,9 @@ We tackle key challenges that arise in the design and analysis of healthcare dat
 •	Tailored target trial framework for pregnancy research: We propose a tailored target trial approach to study treatment effectiveness and safety in a specific gestational window, with applications to fertility treatments, antidiabetic medications, and COVID vaccinations. 
 •	Competing events: We provide practical guidance on methods to handle competing events when estimating the effects of prenatal treatments on events in the offspring.
 
-Transportability and generalizability methods for synthesizing evidence from diverse data sources 
 
+Transportability and generalizability methods for synthesizing evidence from diverse data sources 
+======
 The availability of multiple randomized trials and large healthcare databases creates new opportunities to answer questions that cannot be answered by an individual data source alone. 
 Our research in this area focuses on proposing and evaluating methods that synthesize evidence to extend inference about treatment effects in the target population of interest. These include: 
 
