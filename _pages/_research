@@ -1,10 +1,11 @@
 ---
-permalink: /research/
+layout: archive
 title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
+---
 ---
 
 Causal Framework for Improving Nutritional Research 
