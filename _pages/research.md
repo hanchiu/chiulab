@@ -3,10 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
----
+
 
 Causal Framework for Improving Nutritional Research 
 Every day, we make decisions on choosing what to eat. Choosing wisely among different possible dietary choices requires knowledge about how these diets affect our health outcomes. Sound causal inference can be made based on well-conducted dietary randomized controlled trials. However, due to prohibiting costs and formidable challenges to maintain sustained dietary changes, long-term well-conducted dietary trials are rare. As a result, estimating the long-term effects of dietary intervention often relies on observational studies. 
