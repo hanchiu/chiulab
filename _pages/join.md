@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Join us"
+title: "Open positions"
 permalink: /join/
 author_profile: true
 ---
 
+
 Postdoctoral Fellow – Causal inference for health research
 ======
+
 
 Description: 
 ======
