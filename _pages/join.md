@@ -25,6 +25,6 @@ This position is available immediately and can be renewed annually.
 How to Apply: 
 ======
 Please send the following documents to How to Apply: Please send the following documents to Yu-Han Chiu, MD, ScD, yuhanchiu@psu.edu
-curriculum vitae
+* curriculum vitae
 *	two representative papers
 *	the names and contact information of two references 
