@@ -27,3 +27,5 @@ Chiu YH, Chavarro JE, Dickerman BA, Manson JE, Mukamal KJ, Rexrod KM, Rim EB, He
 
 **Emulating a target trial of the comparative effectiveness of clomiphene citrate and letrozole for ovulation induction.** <br /> Yland JJ, Chiu YH, Rinaudo P, Hsu J, Hernán MA, Hernández-Díaz S.<i> Human Reproduction. 2022 April 1;37(4): 793-805.</i> 
 
+A complete publication list can be found [here]([http://github.com "Github"](https://www.ncbi.nlm.nih.gov/myncbi/1093tJA6qaxkV/bibliography/public/)https://www.ncbi.nlm.nih.gov/myncbi/1093tJA6qaxkV/bibliography/public/).
+
