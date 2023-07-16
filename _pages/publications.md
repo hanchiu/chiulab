@@ -8,9 +8,6 @@ author_profile: true
 **Evaluating model specification when using the parametric g-formula in the presence of censoring.** <br />
 Chiu YH, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA. <i>American Journal of Epidemiology.2023, </i> In Press.    
 
-**Selection on treatment in the target population of generalizability and transportability analyses.** <br /> 
-Chiu YH, Dahabreh IJ. <i>arXiv preprint arXiv:2209.08758, 2022.</i> 
-
 **Estimating the effect of nutritional interventions using observational data: the American Heart Association’s 2020 Dietary Goals and Mortality.** <br />
 Chiu YH, Chavarro JE, Dickerman BA, Manson JE, Mukamal KJ, Rexrod KM, Rim EB, Hernán MA. <i> Am J Clin Nutr. 2021 Aug 2; 114(2):690-730. </i> 
 
@@ -28,6 +25,8 @@ Chiu YH, Chavarro JE, Dickerman BA, Manson JE, Mukamal KJ, Rexrod KM, Rim EB, He
 
 **Emulating a target trial of the comparative effectiveness of clomiphene citrate and letrozole for ovulation induction.** <br /> Yland JJ, Chiu YH, Rinaudo P, Hsu J, Hernán MA, Hernández-Díaz S.<i> Human Reproduction. 2022 April 1;37(4): 793-805.</i> 
 
+**Selection on treatment in the target population of generalizability and transportability analyses.** <br /> 
+Chiu YH, Dahabreh IJ. <i>arXiv preprint arXiv:2209.08758, 2022.</i> 
 
 A complete publication list can be found [here](https://www.ncbi.nlm.nih.gov/myncbi/1093tJA6qaxkV/bibliography/public/).
 
