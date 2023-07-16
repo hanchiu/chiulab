@@ -5,6 +5,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
 date: 
 venue: 'American Journal of Epidemiology'
-paperurl: 
-citation: 'Chiu YH, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA. (2023). &quot;Paper Title Number 1.&quot; <i>American Journal of Epidemiology</i>. In Press.'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37338985/'
+citation: 'Chiu YH, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA. (2023). <i>American Journal of Epidemiology</i>. In Press.'
 ---
