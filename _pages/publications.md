@@ -1,16 +1,8 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Evaluating model specification when using the parametric g-formula in the presence of censoring. 
+Chiu YH, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA. American Journal of Epidemiology. 2023.    
