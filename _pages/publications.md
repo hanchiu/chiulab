@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-Evaluating model specification when using the parametric g-formula in the presence of censoring. 
+*Evaluating model specification when using the parametric g-formula in the presence of censoring. 
 
-**Chiu YH**, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA. <i>American Journal of Epidemiology.</i> 2023.    
+**Chiu YH**, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA.(2023) <i>American Journal of Epidemiology.</i>.    
