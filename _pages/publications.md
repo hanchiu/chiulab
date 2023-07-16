@@ -27,5 +27,7 @@ Chiu YH, Chavarro JE, Dickerman BA, Manson JE, Mukamal KJ, Rexrod KM, Rim EB, He
 
 **Emulating a target trial of the comparative effectiveness of clomiphene citrate and letrozole for ovulation induction.** <br /> Yland JJ, Chiu YH, Rinaudo P, Hsu J, Hernán MA, Hernández-Díaz S.<i> Human Reproduction. 2022 April 1;37(4): 793-805.</i> 
 
+**Hypothetical 22-year intervention with DASH diet lowered risk of heart failure in a general population.** <br /> Ibsen DB, Chiu YH, Gémes K, Wolk A. <i>American Journal of Epidemiology.2023, </i> In Press.    
+
 A complete publication list can be found [here](https://www.ncbi.nlm.nih.gov/myncbi/1093tJA6qaxkV/bibliography/public/).
 
