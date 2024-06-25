@@ -8,7 +8,7 @@ author_profile: true
 Chiu YH, Huybrechts KF, Patorno E, Yland JJ, Cesta CE, Bateman BT, Seely EW, Hernán MA, Hernández-Díaz S.<i> Ann Intern Med. 2024 Jun 18. PMID: 38885505.</i>    
 
 **Internal validation of gestational age estimation algorithms in healthcare databases using pregnancies conceived with fertility procedures.** <br />
-Chiu YH, Huybrechts KF, Zhu Y, Straub L, Bateman BT, Logan R, Hernández-Díaz S. <i>American Journal of Epidemiology.2023, <i> Am J Epidemiol. 2024 Apr 6:kwae045. PMID: 38583933.</i>    
+Chiu YH, Huybrechts KF, Zhu Y, Straub L, Bateman BT, Logan R, Hernández-Díaz S. <i> Am J Epidemiol. 2024 Apr 6:kwae045. PMID: 38583933.</i>    
 
 **Evaluating model specification when using the parametric g-formula in the presence of censoring.** <br />
 Chiu YH, Wen L, McGrath S, Logan R, Dahabreh IJ, Hernán MA. <i> Am J Epidemiol. 2023 Nov 3;192(11):1887-1895. PMID: 37338985; PMCID: PMC11043789.</i>     
