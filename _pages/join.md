@@ -29,7 +29,7 @@ Please send the following documents to Yu-Han Chiu, MD, ScD (yuhanchiu@psu.edu).
 
   
 
-# 2. Data analyst (Programmer) position: 
+# 2. Data Analyst (Programmer) position: 
 
 Description: 
 ======
