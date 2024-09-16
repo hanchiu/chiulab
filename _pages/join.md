@@ -33,7 +33,7 @@ Please send the following documents to Yu-Han Chiu, MD, ScD (yuhanchiu@psu.edu).
 
 Description: 
 ======
-The Department of Public Health Sciences at Penn State College of Medicine and the Chiu Lab are seeking a full-time data analyst with strong administrative and programming skills to join the research team. Our focus is on developing and applying causal inference methods for pregnancy and cardiovascular health. 
+The Department of Public Health Sciences at Penn State College of Medicine and the Chiu Lab are seeking a full-time or part-time data analyst with strong administrative and programming skills to join the research team. Our focus is on developing and applying causal inference methods for pregnancy and cardiovascular health. 
 
 Requirements: 
 ======
