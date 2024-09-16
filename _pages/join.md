@@ -3,12 +3,8 @@ layout: archive
 title: "Open positions"
 permalink: /join/
 author_profile: true
----
-
-
-Postdoctoral Fellows
-======
-
+--- 
+# 1. Postdoc positions: 
 
 Description: 
 ======
@@ -29,4 +25,33 @@ How to Apply:
 Please send the following documents to Yu-Han Chiu, MD, ScD (yuhanchiu@psu.edu).
 * curriculum vitae
 *	two representative papers
-*	the names and contact information of two references 
+*	the names and contact information of two references
+
+  
+
+# 2. Data analysis (Programmer) position: 
+
+Description: 
+======
+The Department of Public Health Sciences at Penn State College of Medicine and the Chiu Lab are seeking a full-time data analyst with strong administrative and programming skills to join the research team. Our focus is on developing and applying causal inference methods for pregnancy and cardiovascular health. 
+
+Requirements: 
+======
+*	Proficiency in programming languages such as SAS or R. 
+
+Responsibilities: 
+======
+*	Data cleaning, data management, variable creation for projects involving health administrative data and longitudinal cohorts.
+*	Develop analytic databases using SAR or R 
+*	Work with investigators to prepare presentation or reports of studies procedures and results
+*	Options for part-time and full-time remote positions are available
+
+Start date:
+======
+This position is available immediately and can be renewed annually.
+
+How to Apply: 
+======
+Please send the following documents to Yu-Han Chiu, MD, ScD (yuhanchiu@psu.edu).
+* curriculum vitae
+*	the names and contact information of two references
