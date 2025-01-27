@@ -4,7 +4,9 @@ title: "Open positions"
 permalink: /join/
 author_profile: true
 --- 
-# 1. Postdoc positions: 
+We are always seeking motivated quantitative researchers who are interested in causal inference using observational data. Please check back for updates, as new positions will be posted when available.
+
+# 1. Postdoc Positions (closed)
 
 Description: 
 ======
@@ -28,30 +30,3 @@ Please send the following documents to Yu-Han Chiu, MD, ScD (yuhanchiu@psu.edu).
 *	the names and contact information of two references
 
   
-
-# 2. Data Analyst (Programmer) position: 
-
-Description: 
-======
-The Department of Public Health Sciences at Penn State College of Medicine and the Chiu Lab are seeking a full-time or part-time data analyst with strong administrative and programming skills to join the research team. Our focus is on developing and applying causal inference methods for pregnancy and cardiovascular health. 
-
-Requirements: 
-======
-*	Proficiency in programming languages such as SAS or R. 
-
-Responsibilities: 
-======
-*	Data cleaning, data management, variable creation for projects involving health administrative data and longitudinal cohorts.
-*	Develop analytic databases using SAR or R 
-*	Work with investigators to prepare presentation or reports of studies procedures and results
-*	Options for part-time and full-time remote positions are available
-
-Start date:
-======
-This position is available immediately and can be renewed annually.
-
-How to Apply: 
-======
-Please send the following documents to Yu-Han Chiu, MD, ScD (yuhanchiu@psu.edu).
-* curriculum vitae
-*	the names and contact information of two references
