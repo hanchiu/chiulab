@@ -17,8 +17,10 @@ author_profile: true
 
 
 **Responsibilities**<br />: As a Postdoctoral Fellow, you will be involved in reviewing literature, designing and implementing methods, analyzing data, summarizing study results, and drafting manuscripts. You will work closely with our team to publish research findings in high-impact journals and present at scientific conferences.
-Start date: This position is available immediately and can be renewed annually.
-How to Apply: Please send the following documents to Yu-Han Chiu, MD, ScD, at yu-han_chiu@brown.edu
+
+**Start date**<br>: This position is available immediately and can be renewed annually.
+
+**How to Apply**<br/>: Please send the following documents to Yu-Han Chiu, MD, ScD, at yu-han_chiu@brown.edu
 •	curriculum vitae
 •	two representative papers
 •	the names and contact information of two references 
