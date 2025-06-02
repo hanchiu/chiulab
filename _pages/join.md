@@ -10,7 +10,7 @@ Postdoc – Causal inference for pregnancy and cardiovascular research
 
 Description: 
 ======
-The Department of Epidemiology at Brown University School of Public Health and the Chiu Lab are seeking a full-time research assistant with strong administrative and programming skills to join the research team focused on causal inference methods for pregnancy and cardiovascular health. 
+The Department of Epidemiology at Brown University School of Public Health and the Chiu Lab are seeking a full-time postdoctoral fellow with strong administrative and programming skills to join the research team focused on causal inference methods for pregnancy and cardiovascular health. 
 
 Requirements: 
 ======
