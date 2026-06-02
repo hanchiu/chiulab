@@ -58,7 +58,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-linkedin                 : "yu-han-chiu-56531059"
 facebook:
   username               :
   app_id                 :
@@ -102,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yu-han-chiu-56531059/"
   orcid            : "https://orcid.org/0000-0002-0904-7855"
   pinterest        :
   soundcloud       :
