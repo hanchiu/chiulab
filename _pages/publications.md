@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **Identification and estimation of the average causal effects under dietary substitution strategies.** <br /> 
-Chiu YH, Wen L. 2025. Statistics in Medicine. In Press. 
+Chiu YH, Wen L. 2025. <i>Stat Med. 2025 Feb 28;44(5):e70007. doi: 10.1002/sim.70007. PMID: 39976288.</i>  
 
 **Metformin Use in the First Trimester of Pregnancy and Risk for Nonlive Birth and Congenital Malformations: Emulating a Target Trial Using Real-World Data.** <br /> 
 Chiu YH, Huybrechts KF, Patorno E, Yland JJ, Cesta CE, Bateman BT, Seely EW, Hernán MA, Hernández-Díaz S.<i> Ann Intern Med. 2024 Jun 18. PMID: 38885505.</i>    
