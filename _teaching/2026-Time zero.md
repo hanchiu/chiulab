@@ -9,6 +9,3 @@ location: "Taipei, Taiwan"
 share: false
 ---
 
-Materials from this workshop can be downloaded here:
-
-[Download teaching materials](https://www.dropbox.com/scl/fo/z7hm05jxm94qrci8hac4c/ANRMKGji2cYEAvB83d19WDo?rlkey=ka091541hjcxkpcapnhuvi5et&st=f96gvzas&dl=0)
